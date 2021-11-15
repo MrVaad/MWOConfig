@@ -1,6 +1,8 @@
 # MWOConfig
 CryEngine 3 Cfg Editor and Log Viewer for Mechwarrior Online
 
+![MainUI](Screenshots/mwoconfig.png)
+
 ## Install
 Jut unzip MWOConfig's zip file.
 You can install MWOConfig anywhere (except in MWO's directory) 
@@ -14,7 +16,8 @@ The Install button will copy two files in your MWO directory (user.cfg and tunin
 The Uninstall button will remove those two files.
 
 ## Configs
-You can copy your existing configs in the saved directory of MWOConfig
+You can copy your existing configs in the saved
+ directory of MWOConfig
 
 ## CryEngine supported settings
 Currently, MWOConfig will only write the supported variables. 
