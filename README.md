@@ -1,7 +1,7 @@
 # MWOConfig
 CryEngine 3 Cfg Editor and Log Viewer for Mechwarrior Online
 
-![MainUI](Screenshots/mwoconfig.png)
+![MainUI](Screenshots/MwoConfig.png)
 
 ## Install
 Jut unzip MWOConfig's zip file.
