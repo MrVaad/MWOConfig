@@ -1,4 +1,6 @@
 # MWOConfig
+[![Download](https://img.shields.io/github/downloads/MrVaad/MWOConfig/total.svg)](https://github.com/MrVaad/MWOConfig)
+
 CryEngine 3 Cfg Editor and Log Viewer for Mechwarrior Online
 
 ![MainUI](Screenshots/MwoConfig.png)
